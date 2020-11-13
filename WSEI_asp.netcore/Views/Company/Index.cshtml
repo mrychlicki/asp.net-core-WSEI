@@ -3,9 +3,15 @@
 <h1>Company menagment</h1>
 
 <h2>Add new company</h2>
+<div id="success-alert" class="alert alert-success" style="display: none">
+    Item added
+    successfully
+</div>
 
 @using (Html.BeginForm())
 {
+    
+
     <div class="form_group">
         @Html.LabelFor(x => x.Name, "Company name")
         @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
@@ -17,11 +23,14 @@
     </div>
 
     <div class="form_group form_check">
-        @Html.CheckBoxFor(x => x.IsVisible, new {@class = "form_check_input" })
+        @Html.CheckBoxFor(x => x.IsVisible, new { @class = "form_check_input" })
         @Html.LabelFor(x => x.IsVisible, "Visable?", new { @class = "form_check_label" })
     </div>
 
     <div class="form_group">
         <button type="submit" class="btn btn_primary">Add company</button>
     </div>
+}
+@section Scripts {
+    <script src="~/js/addNewItem.js"></script>
 }

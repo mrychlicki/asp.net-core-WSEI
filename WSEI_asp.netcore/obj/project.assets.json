@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\asp.net\\WSEI_asp.netcore\\WSEI_asp.netcore\\WSEI_asp.netcore.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\asp.net\\WSEI_asp.netcore\\asp.net-core-WSEI\\WSEI_asp.netcore\\WSEI_asp.netcore.csproj",
       "projectName": "WSEI_asp.netcore",
-      "projectPath": "C:\\Users\\user\\Desktop\\asp.net\\WSEI_asp.netcore\\WSEI_asp.netcore\\WSEI_asp.netcore.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\asp.net\\WSEI_asp.netcore\\asp.net-core-WSEI\\WSEI_asp.netcore\\WSEI_asp.netcore.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\asp.net\\WSEI_asp.netcore\\WSEI_asp.netcore\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\asp.net\\WSEI_asp.netcore\\asp.net-core-WSEI\\WSEI_asp.netcore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5cRFrLuWM2HOoZg5d6Ftr5F3T34vfbJeFXhuEj02YsKuJUhaTtmu5vuVO07Uq1XrVWKutXjswsMtTKwqWM+rDQ==",
+  "dgSpecHash": "wNaSl/alD03L0w+XXp8N+xWBL2nhhllFS27IbrXDhppzLgsE8woDnKFL5CkyZ300N/SkfEGDWPIQKMMnarSJRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\asp.net\\WSEI_asp.netcore\\WSEI_asp.netcore\\WSEI_asp.netcore.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\asp.net\\WSEI_asp.netcore\\asp.net-core-WSEI\\WSEI_asp.netcore\\WSEI_asp.netcore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
